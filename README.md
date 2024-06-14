@@ -5,11 +5,6 @@ This repository provides an overview and implementation of several popular unsup
 ## Table of Contents
 
 - [Algorithms Covered](#algorithms-covered)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Algorithms Covered
 
