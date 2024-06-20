@@ -1,6 +1,7 @@
 # Unsupervised Machine Learning Algorithms
 
 This repository provides an overview and implementation of several popular unsupervised machine learning algorithms. Unsupervised learning involves training a model on a dataset without labeled responses. The goal is to infer the natural structure present within a set of data points.
+unsupervised doesnot give us particukar outputs
 
 ## Table of Contents
 
